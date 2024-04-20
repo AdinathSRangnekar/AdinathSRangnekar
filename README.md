@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdinathSRangnekar
-- 👀 I’m interested in HAcking, Python and rust developement
+- 👀 I’m interested in HAcking, Python and c++ game dev;
 - 🌱 I’m currently learning rust developement
 
 <!---
